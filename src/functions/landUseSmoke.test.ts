@@ -16,7 +16,9 @@ describe("Basic smoke tests", () => {
   test("tests run against all examples", async () => {
     const examples = await getExampleSketches();
     for (const example of examples) {
+      console.time("calc landuse");
       const result = await landUse(example);
+      console.timeEnd("calc landuse");
       expect(result).toBeTruthy();
       writeResultOutput(result, "landUse", example.properties.name);
     }
