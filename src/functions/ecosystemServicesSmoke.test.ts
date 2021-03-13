@@ -8,6 +8,7 @@ import {
   writeResultOutput,
 } from "@seasketch/geoprocessing/scripts/testing";
 
+jest.setTimeout(30000);
 const ecosystemServices = Handler.func;
 
 describe("Basic smoke tests", () => {

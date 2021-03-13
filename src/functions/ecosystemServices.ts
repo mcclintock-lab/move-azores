@@ -11,8 +11,6 @@ import geoblaze from "geoblaze";
 import layerInfo from "../../data/dist/layerInfo.json";
 import { AllGeoJSON, BBox } from "@turf/helpers";
 
-jest.setTimeout(30000);
-
 export type RasterName =
   | "carbon"
   | "flow"

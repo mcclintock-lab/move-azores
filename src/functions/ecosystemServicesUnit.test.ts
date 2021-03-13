@@ -9,6 +9,7 @@ import {
 } from "@seasketch/geoprocessing/scripts/testing";
 
 const ecosystemServices = Handler.func;
+jest.setTimeout(30000);
 
 describe("Unit tests", () => {
   test("", async () => {
