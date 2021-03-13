@@ -1,0 +1,32 @@
+[
+  {
+    "categoryLabel": "Carbon storage",
+    "meanScore": 2.5326528212003736,
+    "meanForStudyRegion": 2.3579250340516933
+  },
+  {
+    "categoryLabel": "Flow retention",
+    "meanScore": 4.289019799966572,
+    "meanForStudyRegion": 4.647683714180094
+  },
+  {
+    "categoryLabel": "Nutrient export",
+    "meanScore": 5,
+    "meanForStudyRegion": 4.732958170913556
+  },
+  {
+    "categoryLabel": "Pollination",
+    "meanScore": 1.4209468171323065,
+    "meanForStudyRegion": 1.4300363760265804
+  },
+  {
+    "categoryLabel": "Recreation",
+    "meanScore": 0.2707891482282745,
+    "meanForStudyRegion": 0.3619256264783914
+  },
+  {
+    "categoryLabel": "Sediment export",
+    "meanScore": 4.261781905010275,
+    "meanForStudyRegion": 3.8639013273551677
+  }
+]

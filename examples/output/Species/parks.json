@@ -1,0 +1,32 @@
+[
+  {
+    "categoryArea": 529307.4588191187,
+    "categoryLabel": "Monumento Natural",
+    "area": 0,
+    "fraction": 0
+  },
+  {
+    "categoryArea": 26714397.722731825,
+    "categoryLabel": "Reserva Natural",
+    "area": 0,
+    "fraction": 0
+  },
+  {
+    "categoryArea": 19651036.410829246,
+    "categoryLabel": "Área Protegida de Gestão de Recursos",
+    "area": 0,
+    "fraction": 0
+  },
+  {
+    "categoryArea": 44694824.543985024,
+    "categoryLabel": "Área Protegida para a Gestão de Habitats ou Espécies",
+    "area": 1009759.5650357449,
+    "fraction": 0.02259231522526778
+  },
+  {
+    "categoryArea": 1657432.5488378084,
+    "categoryLabel": "Área de Paisagem Protegida",
+    "area": 0,
+    "fraction": 0
+  }
+]

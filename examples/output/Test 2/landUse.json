@@ -1,0 +1,380 @@
+{
+  "clc": [
+    {
+      "categoryArea": 1016426.3308523148,
+      "categoryLabel": " Continuous urban fabric",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 27366116.40974345,
+      "categoryLabel": "Discontinuous urban fabric",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 3150479.6230659103,
+      "categoryLabel": "Industrial or commercial units",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 2897217.576566945,
+      "categoryLabel": "Port areas",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 3200614.7162907403,
+      "categoryLabel": "Airports",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 1404758.9635487366,
+      "categoryLabel": "Mineral extraction sites",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 406717.8856135488,
+      "categoryLabel": "Dump sites",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 1205282.2801898248,
+      "categoryLabel": "Green urban areas",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 870134.5694644318,
+      "categoryLabel": "Sport and leisure facilities",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 30145962.08561827,
+      "categoryLabel": "Non-irrigated arable land",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 1074905.510864583,
+      "categoryLabel": "Vineyards",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 148962257.13275865,
+      "categoryLabel": "Pastures",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 16333344.966924101,
+      "categoryLabel": "Complex cultivation patterns",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 65315926.446219936,
+      "categoryLabel": "Land principally occupied by agriculture",
+      "area": 310991.48008130956,
+      "fraction": 0.004761342248392891
+    },
+    {
+      "categoryArea": 23538714.461745802,
+      "categoryLabel": "Broad-leaved forest",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 13580667.558367472,
+      "categoryLabel": "Coniferous forest",
+      "area": 512251.0292044475,
+      "fraction": 0.03771913471873728
+    },
+    {
+      "categoryArea": 1154559.224740564,
+      "categoryLabel": "Mixed forest",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 9569462.069977246,
+      "categoryLabel": "Natural grasslands",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 33957373.88771478,
+      "categoryLabel": "Moors and heathland",
+      "area": 945796.1547747669,
+      "fraction": 0.02785245283990999
+    },
+    {
+      "categoryArea": 12264554.87631442,
+      "categoryLabel": "Transitional woodland-shrub",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 5906767.504396693,
+      "categoryLabel": "Peat bogs",
+      "area": 1140488.4216236805,
+      "fraction": 0.19308165096641433
+    }
+  ],
+  "cosN3": [
+    {
+      "categoryArea": 3100806.033600692,
+      "categoryLabel": "Aeroportos e aeródromos",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 3597348.658038759,
+      "categoryLabel": "Culturas permanentes",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 1090171.6388469497,
+      "categoryLabel": "Equipamentos desportivos, culturais, turísticos e de lazer",
+      "area": 7301.497173835593,
+      "fraction": 0.006697566615802099
+    },
+    {
+      "categoryArea": 266352.2298601852,
+      "categoryLabel": "Espaços verdes urbanos",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 41325343.08547986,
+      "categoryLabel": "Florestas de folhosas",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 28427847.743031394,
+      "categoryLabel": "Florestas de resinosas",
+      "area": 372901.1944700491,
+      "fraction": 0.013117461365377529
+    },
+    {
+      "categoryArea": 9209164.851066068,
+      "categoryLabel": "Florestas naturais",
+      "area": 265040.4592679328,
+      "fraction": 0.028780075452471816
+    },
+    {
+      "categoryArea": 4306496.6402940145,
+      "categoryLabel": "Galerias ripícolas",
+      "area": 63419.428680439276,
+      "fraction": 0.014726454930221304
+    },
+    {
+      "categoryArea": 2157975.0185608305,
+      "categoryLabel": "Indústria, comércio, equipamentos gerais e infraestruturas",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 78475.89545823888,
+      "categoryLabel": "Lagoas",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 14797825.047498127,
+      "categoryLabel": "Matos",
+      "area": 975065.6153599733,
+      "fraction": 0.06589249516264743
+    },
+    {
+      "categoryArea": 230860519.45911476,
+      "categoryLabel": "Prados/pastagens",
+      "area": 252920.3009256986,
+      "fraction": 0.001095554586458819
+    },
+    {
+      "categoryArea": 113903.78330822449,
+      "categoryLabel": "Praias",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 691125.4047562777,
+      "categoryLabel": "Redes viárias e espaços associados",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 3219198.2266567145,
+      "categoryLabel": "Rocha nua",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 4088756.912503433,
+      "categoryLabel": "Tecido urbano contínuo",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 13220485.094557036,
+      "categoryLabel": "Tecido urbano descontínuo",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 11208311.540169481,
+      "categoryLabel": "Terras aráveis",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 455295.407593922,
+      "categoryLabel": "Vegetação esparsa",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 11196554.262571838,
+      "categoryLabel": "Vegetação herbácea natural",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 14107182.890035998,
+      "categoryLabel": "Zonas apauladas",
+      "area": 972999.90565264,
+      "fraction": 0.06897194948396655
+    },
+    {
+      "categoryArea": 1246615.7601508247,
+      "categoryLabel": "Áreas agrícolas heterogéneas",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 1671576.8559745667,
+      "categoryLabel": "Áreas de extração de massas minerais",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 228635.79103546,
+      "categoryLabel": "Áreas de gestão de resíduos",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 10242.766254529653,
+      "categoryLabel": "Áreas em construção",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 602416.069752774,
+      "categoryLabel": "Áreas portuárias",
+      "area": 0,
+      "fraction": 0
+    }
+  ],
+  "sentinal": [
+    {
+      "categoryArea": 3384696.4245181107,
+      "categoryLabel": "Acacia",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 187144120.67881504,
+      "categoryLabel": "Arable crops",
+      "area": 172802.34531685308,
+      "fraction": 0.0009233650765520123
+    },
+    {
+      "categoryArea": 4947659.145159492,
+      "categoryLabel": "Bare Soil",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 4218813.615313209,
+      "categoryLabel": "Calluna-Juniperus",
+      "area": 864028.33775417,
+      "fraction": 0.20480362882540468
+    },
+    {
+      "categoryArea": 25826855.482921276,
+      "categoryLabel": "Cryptomeria",
+      "area": 404946.95046386705,
+      "fraction": 0.015679297494487838
+    },
+    {
+      "categoryArea": 9575677.19786825,
+      "categoryLabel": "Erica",
+      "area": 31488.662945123768,
+      "fraction": 0.0032884006315640857
+    },
+    {
+      "categoryArea": 15382215.765932921,
+      "categoryLabel": "Eucalyptus",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 15655490.570993468,
+      "categoryLabel": "Juniperus-Ilex",
+      "area": 1140145.6085878133,
+      "fraction": 0.07282720419507505
+    },
+    {
+      "categoryArea": 36987273.541129805,
+      "categoryLabel": "Other crops",
+      "area": 1356.5759686498518,
+      "fraction": 0.000036676830670996634
+    },
+    {
+      "categoryArea": 7995384.475656134,
+      "categoryLabel": "Peatlands",
+      "area": 95878.68946225104,
+      "fraction": 0.011991754712256391
+    },
+    {
+      "categoryArea": 87257.4851616476,
+      "categoryLabel": "Pinus",
+      "area": 0,
+      "fraction": 0
+    },
+    {
+      "categoryArea": 26129116.089311324,
+      "categoryLabel": "Pittosporum",
+      "area": 3821.787820539357,
+      "fraction": 0.00014626548435378345
+    },
+    {
+      "categoryArea": 23968167.137888856,
+      "categoryLabel": "Shrub peatland",
+      "area": 194111.25575142744,
+      "fraction": 0.00809871087074391
+    },
+    {
+      "categoryArea": 38082963.01077156,
+      "categoryLabel": "Urban",
+      "area": 906.1525589780582,
+      "fraction": 0.00002379417165417927
+    },
+    {
+      "categoryArea": 1981606.4475818314,
+      "categoryLabel": "cloudcover",
+      "area": 0,
+      "fraction": 0
+    }
+  ]
+}

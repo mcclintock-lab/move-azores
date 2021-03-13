@@ -1,0 +1,719 @@
+{
+  "renderer": {
+    "type": "uniqueValue",
+    "field1": "code_18",
+    "field2": null,
+    "field3": null,
+    "defaultSymbol": null,
+    "defaultLabel": null,
+    "uniqueValueInfos": [
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [230, 0, 77, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "111",
+        "label": " Continuous urban fabric",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [255, 0, 0, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "112",
+        "label": "Discontinuous urban fabric",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [204, 77, 242, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "121",
+        "label": "Industrial or commercial units",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [204, 0, 0, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "122",
+        "label": "Road and rail networks and associated land",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [230, 204, 204, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "123",
+        "label": "Port areas",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [230, 204, 230, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "124",
+        "label": "Airports",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [166, 0, 204, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "131",
+        "label": "Mineral extraction sites",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [166, 77, 0, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "132",
+        "label": "Dump sites",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [255, 77, 255, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "133",
+        "label": "Construction sites",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [255, 166, 255, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "141",
+        "label": "Green urban areas",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [255, 230, 255, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "142",
+        "label": "Sport and leisure facilities",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [255, 255, 168, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "211",
+        "label": "Non-irrigated arable land",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [255, 255, 0, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "212",
+        "label": "Permanently irrigated land",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [230, 230, 0, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "213",
+        "label": "Rice fields",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [230, 128, 0, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "221",
+        "label": "Vineyards",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [242, 166, 77, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "222",
+        "label": "Fruit trees and berry plantations",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [230, 166, 0, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "223",
+        "label": "Olive groves",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [230, 230, 77, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "231",
+        "label": "Pastures",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [255, 230, 166, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "241",
+        "label": "Annual crops associated with permanent crops",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [255, 230, 77, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "242",
+        "label": "Complex cultivation patterns",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [230, 204, 77, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "243",
+        "label": "Land principally occupied by agriculture",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [242, 204, 166, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "244",
+        "label": "Agro-forestry areas",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [128, 255, 0, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "311",
+        "label": "Broad-leaved forest",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [0, 166, 0, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "312",
+        "label": "Coniferous forest",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [77, 255, 0, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "313",
+        "label": "Mixed forest",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [204, 242, 77, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "321",
+        "label": "Natural grasslands",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [166, 255, 128, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "322",
+        "label": "Moors and heathland",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [166, 230, 77, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "323",
+        "label": "Sclerophyllous vegetation",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [166, 242, 0, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "324",
+        "label": "Transitional woodland-shrub",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [230, 230, 230, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "331",
+        "label": "Beaches, dunes, sands",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [204, 204, 204, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "332",
+        "label": "Bare rocks",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [204, 255, 204, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "333",
+        "label": "Sparsely vegetated areas",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [0, 0, 0, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "334",
+        "label": "Burnt areas",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [166, 230, 204, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "335",
+        "label": "Glaciers and perpetual snow",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [166, 166, 255, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "411",
+        "label": "Inland marshes",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [77, 77, 255, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [110, 110, 110, 255],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "412",
+        "label": "Peat bogs",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [204, 204, 255, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "421",
+        "label": "Salt marshes",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [230, 230, 255, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "422",
+        "label": "Salines",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [166, 166, 230, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "423",
+        "label": "Intertidal flats",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [0, 204, 242, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "511",
+        "label": "Water courses",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [128, 242, 230, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "512",
+        "label": "Water bodies",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [0, 255, 166, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "521",
+        "label": "Coastal lagoons",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [166, 255, 230, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "522",
+        "label": "Estuaries",
+        "description": ""
+      },
+      {
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [230, 242, 255, 255],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [0, 0, 0, 0],
+            "width": 0.40000000000000002
+          }
+        },
+        "value": "523",
+        "label": "Sea and ocean",
+        "description": ""
+      }
+    ],
+    "fieldDelimiter": ","
+  },
+  "transparency": 0,
+  "labelingInfo": null
+}

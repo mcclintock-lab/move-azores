@@ -1,0 +1,18 @@
+{
+  "author": "Chad Burt <chad@underbluewaters.net>",
+  "organization": "SeaSketch",
+  "region": "eu-central-1",
+  "functions": [
+    "src/functions/ecosystemServices.ts",
+    "src/functions/area.ts",
+    "src/functions/parks.ts",
+    "src/functions/landUse.ts"
+  ],
+  "clients": [
+    {
+      "name": "MOVEClient",
+      "description": "",
+      "source": "src/clients/MOVEClient.tsx"
+    }
+  ]
+}
