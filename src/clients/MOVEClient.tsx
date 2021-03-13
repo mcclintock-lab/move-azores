@@ -41,7 +41,11 @@ const MOVEClient = () => {
       <ResultsCard
         title="📐 Area"
         functionName="area"
-        skeleton={<LoadingSkeleton />}
+        skeleton={
+          <p>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+          </p>
+        }
       >
         {(data: AreaResults) => (
           <p>
@@ -53,7 +57,17 @@ const MOVEClient = () => {
       <ResultsCard
         title="Ecosystem Services"
         functionName="ecosystemServices"
-        skeleton={<LoadingSkeleton />}
+        skeleton={
+          <p>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+          </p>
+        }
       >
         {(data: EcosystemServicesResults) => (
           <table
@@ -91,7 +105,17 @@ const MOVEClient = () => {
       <ResultsCard
         title="Parks"
         functionName="parks"
-        skeleton={<LoadingSkeleton />}
+        skeleton={
+          <p>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+          </p>
+        }
       >
         {(data: ParksResults) => (
           <table
@@ -129,7 +153,46 @@ const MOVEClient = () => {
       <ResultsCard
         title="Land Use"
         functionName="landUse"
-        skeleton={<LoadingSkeleton />}
+        skeleton={
+          <p>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+            <Skeleton style={{}}>&nbsp;</Skeleton>
+          </p>
+        }
       >
         {(data: LandUseResults) => (
           <>
