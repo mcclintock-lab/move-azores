@@ -44,8 +44,8 @@ async function landUse(
 export default new GeoprocessingHandler(landUse, {
   title: "landUse",
   description: "Calculates overlap with different land use categories",
-  timeout: 30, // seconds
-  memory: 1024, // megabytes
+  timeout: 240, // seconds
+  memory: 2048, // megabytes
   executionMode: "sync",
   // Specify any Sketch Class form attributes that are required
   requiresProperties: [],

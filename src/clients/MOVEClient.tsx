@@ -11,6 +11,7 @@ import { AreaResults } from "../functions/area";
 import useSketchProperties from "@seasketch/geoprocessing/src/hooks/useSketchProperties";
 import { ParksResults } from "../functions/parks";
 import { LandUseResults } from "../functions/landUse";
+import "./index.css";
 
 const Number = new Intl.NumberFormat("en", {
   style: "decimal",
@@ -49,7 +50,7 @@ const MOVEClient = () => {
       >
         {(data: AreaResults) => (
           <p>
-            The area of this zone is{" "}
+            The area of this {props.isCollection ? "collection" : "zone"} is{" "}
             <b>{Number.format(Math.round(data.area * 1e-6))}</b> km²
           </p>
         )}
